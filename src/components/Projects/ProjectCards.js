@@ -3,6 +3,7 @@ import Card from "react-bootstrap/Card";
 import Button from "react-bootstrap/Button";
 import { CgWebsite } from "react-icons/cg";
 import { BsGithub } from "react-icons/bs";
+import { SiDevpost } from "react-icons/si";
 
 function ProjectCards(props) {
   return (
@@ -29,9 +30,11 @@ function ProjectCards(props) {
             target="_blank"
             style={{ marginLeft: "10px" }}
           >
-            <CgWebsite /> &nbsp;
-            {"Demo"}
+            <SiDevpost /> &nbsp;
+            {"Devpost"}
           </Button>
+          
+          
         )}
       </Card.Body>
     </Card>

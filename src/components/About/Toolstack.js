@@ -1,30 +1,45 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
 import {
+  SiApachespark ,
+  SiApacheairflow ,
   SiVisualstudiocode,
-  SiPostman,
-  SiSlack,
+  SiDatabricks ,
   SiVercel,
-  SiMacos,
+  SiTableau,
+  SiSplunk,
+  SiDocker,
+  SiPostgresql 
 } from "react-icons/si";
+import { VscAzure } from "react-icons/vsc";
+import { FaAws } from "react-icons/fa";
 
 function Toolstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
       <Col xs={4} md={2} className="tech-icons">
-        <SiMacos />
+        <SiApachespark />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiVisualstudiocode />
+        <SiApacheairflow />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiPostman />
+        <VscAzure />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiSlack />
+        <FaAws />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiVercel />
+        <SiDatabricks />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiPostgresql />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiSplunk  />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiTableau />
       </Col>
     </Row>
   );

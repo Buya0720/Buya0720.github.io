@@ -2,7 +2,7 @@
 
 ## TL;DR
 
-Portfolio page forked from portfolio app created by [Soumyajit4419](https://github.com/soumyajit4419/Portfolio). Thanks!
+Design credits to [Soumyajit4419](https://github.com/soumyajit4419/Portfolio).!
 
 ## Built With
 

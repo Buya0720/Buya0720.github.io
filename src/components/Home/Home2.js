@@ -17,26 +17,32 @@ function Home2() {
         <Row>
           <Col md={8} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
-              LITTLE BIT ABOUT <span className="purple"> ME </span>
+              My Professional <span className="purple"> Intro </span>
             </h1>
             <p className="home-about-body">
               I am a 
-              <b className="purple"> Data Practitioner </b> with <b className="purple"> 2 years </b> of <b className="purple"> data analyst </b> experience at a telecommunication industry.              <br />
-              <br />I have high expertise in languages such as 
-                <b className="purple"> SQL, Python </b> and <b className="purple"> C. </b>
+              <b className="purple"> Data Practitioner </b> with <b className="purple"> 2 years </b> of <b className="purple"> Data Analysis </b> experience in telecommunication industry.              <br />
+              <br />I have expertise in languages such as 
+                <b className="purple"> SQL, Python, JavaScript </b> and <b className="purple"> C </b>, and I have mainly worked
+                 with 
+                <b className="purple"> structured data </b> on 
+                <b className="purple"> warehouses </b> and
+                <b className="purple"> OLAP systems </b>.
               <br />
               <br />
-              Currently my focus is on &nbsp;
-                <b className="purple">Data Engineering </b>, building reliable {" "}
-                <b className="purple"> data infrastractures, workflows
-                </b> and <b className="purple"> pipelines </b>
-                using tools like 
-                <b className="purple"> Airflow, PySpark </b> and <b className="purple"> Apache Iceberg </b>
-                on platforms such as 
+                I have familiriased myself with data querying, processing and orchestration tools such as
+                  <b className="purple"> Airflow, PySpark </b> and 
+                  <b className="purple"> Trino </b> and table formats like
+                  <b className="purple"> Apache Iceberg </b> and
+                  <b className="purple"> Delta </b>
+                on cloud platforms including
                 <b className="purple"> AWS, Azure </b> and <b className="purple"> Databricks. </b>
               <br />
               <br />
-              Beyond my main passion, I'm honing my skills in <b className="purple"> machine learning</b> and <b className="purple">web development</b> while competing in <b className="purple">hackathons</b> to challenge myself and build new friendships. 
+              Besides my main pursuit, I'm also honing my skills in 
+              <b className="purple"> machine learning</b> and 
+              <b className="purple"> web development</b> while competing in 
+              <b className="purple"> hackathons</b> to challenge myself and make memories. 
             </p>
           </Col>
           <Col md={4} className="myAvtar">

@@ -32,6 +32,16 @@ function Projects() {
               demoLink="https://devpost.com/software/hobbyquest"
             />
           </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={HobbyQuest}
+              isBlog={false}
+              title="HobbyQuest"
+              description="HobbyQuest is an application specifically designed for students that creates and hosts events based on shared interests in the same area. The app's intelligent algorithms scan available students in a specific location and automatically generate events tailored to their shared hobbies and time availabilities."
+              ghLink="https://github.com/rxsi1920/Hobbyquest"
+              demoLink="https://devpost.com/software/hobbyquest"
+            />
+          </Col>
         </Row>
       </Container>
     </Container>

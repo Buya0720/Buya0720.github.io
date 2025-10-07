@@ -25,19 +25,18 @@ function Home2() {
               <br />I have expertise in languages  
                 <b className="purple"> SQL</b>,<b className="purple"> Python</b>,<b className="purple"> Shell</b> and <b className="purple"> C++ </b>.
               <br />
-                 I have mainly worked
-                 on 
-                <b className="purple"> building pipeline </b> on 
+                 In my previous roles, I have mainly worked on 
+                <b className="purple"> building pipeline </b>, 
                 <b className="purple"> modelling OLAP warehouses </b> 
                 <b className="purple"> orchestrating ETL/ELT workflows </b> and
-                <b className="purple"> building interactive BI dashboards </b>.
+                <b className="purple"> building interactive BI dashboards </b> both on cloud and on-premise environments.
               <br />
-                I have experience with big data tools, and distributed and real-time systems such as
+                Overall, I'm experienced with big data tools, and distributed and real-time systems such as
                   <b className="purple"> Spark </b>, 
                   <b className="purple"> Trino </b>, and
                   <b className="purple"> Kafka </b>.
               <br />
-                Through my previous jobs and personal projects, I have worked on cloud platforms such as
+                Additionally, I'm comfortable working on cloud platforms such as
                 <b className="purple"> AWS, Azure, Databricks </b> and <b className="purple"> Snowflake. </b>
             </p>
           </Col>

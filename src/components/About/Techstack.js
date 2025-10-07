@@ -4,7 +4,6 @@ import { CgCPlusPlus } from "react-icons/cg";
 import {
   DiJavascript1,
   DiReact,
-  DiNodejs,
   DiMongodb,
   DiPython,
   DiGit,
@@ -16,7 +15,9 @@ import {
   SiNextdotjs,
   SiSolidity,
   SiPostgresql,
-  SiApachespark
+  SiApachespark,
+  SiGnubash
+
 } from "react-icons/si";
 import { TbSql } from "react-icons/tb";
 
@@ -36,16 +37,13 @@ function Techstack() {
         <DiGit />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiJava />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
         <DiJavascript1 />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiNodejs />
+        <CgCPlusPlus />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <CgCPlusPlus />
+        <SiGnubash />
       </Col>
     </Row>
   );

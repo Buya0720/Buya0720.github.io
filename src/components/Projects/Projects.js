@@ -4,6 +4,7 @@ import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import HobbyQuest from "../../Assets/Projects/HobbyQuest.png";
 import mindcapsule from "../../Assets/Projects/mindcapsule.jpg";
+import AWSlakehouse from "../../Assets/Projects/building_AWS_lakehouse.jpg";
 
 function Projects() {
   return (
@@ -17,7 +18,21 @@ function Projects() {
           Here are a few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
-        <Col md={4} className="project-card">
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={AWSlakehouse}
+              isBlog={false}
+              title="Building AWS Lakehouse"
+              subtitle="Personal Project"
+              
+              description="Personal project to build a data lakehouse on AWS using EC2, S3, Airflow, DBT and Medallion Architecture.
+              Initially raw data is ingested into PostgreSQL database on EC2 instance using Airflow before being transformed as parquet files
+              and stored in S3 bucket. DBT is then used to create bronze, silver and gold tables and transform the data for analysis and reporting.
+              Cataloging and governance is done using AWS Glue and Athena is used to query the data."
+              ghLink="https://github.com/Buya0720/buya_capstone"
+            />
+          </Col>
+          <Col md={4} className="project-card">
             <ProjectCard
               imgPath={mindcapsule}
               isBlog={false}

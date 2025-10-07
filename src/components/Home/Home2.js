@@ -21,28 +21,29 @@ function Home2() {
             </h1>
             <p className="home-about-body">
               I am a 
-              <b className="purple"> Data Practitioner </b> with <b className="purple"> 2 years </b> of <b className="purple"> Data Analysis </b> experience in telecommunication industry.              <br />
+              <b className="purple"> Data Engineer </b> with over <b className="purple"> 3 years </b> of experience in industries such as telecommunication and sports.              <br />
               <br />I have expertise in languages such as 
-                <b className="purple"> SQL, Python, JavaScript </b> and <b className="purple"> C </b>, and I have mainly worked
-                 with 
-                <b className="purple"> structured data </b> on 
-                <b className="purple"> warehouses </b> and
-                <b className="purple"> OLAP systems </b>.
+                <b className="purple"> SQL, Python, JavaScript, Shell/Bash </b> and <b className="purple"> C++ </b>, and I have mainly worked
+                 on 
+                <b className="purple"> building pipeline </b> on 
+                <b className="purple"> modelling OLAP warehouses </b> 
+                <b className="purple"> orchestrating ETL/ELT workflows </b> and
+                <b className="purple"> building interactive BI dashboards </b>.
               <br />
               <br />
-                I have familiriased myself with data querying, processing and orchestration tools such as
-                  <b className="purple"> Airflow, PySpark </b> and 
-                  <b className="purple"> Trino </b> and table formats like
-                  <b className="purple"> Apache Iceberg </b> and
-                  <b className="purple"> Delta </b>
-                on cloud platforms including
-                <b className="purple"> AWS, Azure </b> and <b className="purple"> Databricks. </b>
+                I have experience with big data tools, and distributed and real-time systems such as
+                  <b className="purple"> Spark </b>, 
+                  <b className="purple"> Trino </b>, and
+                  <b className="purple"> Kafka </b>.
               <br />
               <br />
-              Besides my main pursuit, I'm also honing my skills in 
-              <b className="purple"> machine learning</b> and 
-              <b className="purple"> web development</b> while competing in 
-              <b className="purple"> hackathons</b> to challenge myself and make memories. 
+              Additionally I have worked with cloud platforms such as
+                <b className="purple"> AWS, Azure, Databricks </b> and <b className="purple"> Snowflake. </b>
+              <br />
+              <br />
+              Besides my main pursuit in Data Engineering, I'm also honing my skills in 
+              <b className="purple"> Machine Learning, AI</b> and 
+              <b className="purple"> Web development</b>  
             </p>
           </Col>
           <Col md={4} className="myAvtar">

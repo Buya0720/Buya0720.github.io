@@ -9,20 +9,17 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            I'm <span className="purple">Buya Batu </span>
-            from <span className="purple"> Sydney, </span> originally from <span className="purple"> Ulaanbaatar, Mongolia.</span>
-            <br />
-            I am currently a student at <span className="purple"> University of Technology Sydney (UTS),</span> pursuing my masters in <span className="purple"> Data Science and Innovation.</span>
-            <br />
+            My full name is <span className="purple">Buyandelger Batsuren</span>.
+            I currently live in  <span className="purple"> Sydney, </span> but originally from <span className="purple"> Ulaanbaatar, Mongolia.</span>
             <br />
             My background is in economics, but endless nights battling statistics and math—along with my long-standing passion for computer science and programming—led me to seek revenge in the field of data.
             <br />
             <br />
-            Apart from coding and data engineering, I enjoy ...
+            Apart from data engineering, I enjoy ...
           </p>
           <ul>
             <li className="about-activity">
-              <AiOutlineLike /> Basketball 🏀
+              <AiOutlineLike /> Sports - Specifically Basketball 🏀
             </li>
             <li className="about-activity">
               <AiOutlineLike /> Music 🎵 and Art 🎨

@@ -33,27 +33,15 @@ function ResumeNew() {
           </Button>
         </Row>
 
-        {/* Conditional Rendering for Mobile and Web */}
+        {/* Conditional Rendering for Mobile and Web can be done like prior*/}
         <Row className="resume" style={{ justifyContent: "center" }}>
           <Document file={pdf} className="d-flex justify-content-center">
-            {width > 786 ? (
-              // Show two pages side-by-side for larger screens
-              <>
-                <div style={{ margin: "0 5px" }}>
-                  <Page pageNumber={1} scale={1.1} />
-                </div>
-                <div style={{ margin: "0 5px" }}>
-                  <Page pageNumber={2} scale={1.1} />
-                </div>
-              </>
-            ) : (
-              // Show one page with scrolling for smaller screens
-              <div style={{ margin: "0 5px" }}>
-                <Page pageNumber={1} scale={0.6} />
-              </div>
-            )}
+            <div style={{ margin: "0 5px" }}>
+              <Page pageNumber={1} scale={1.1} />
+            </div>
           </Document>
         </Row>
+
 
         <Row style={{ justifyContent: "center", position: "relative" }}>
           <Button

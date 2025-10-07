@@ -1,25 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.29bc8131.css",
-    "main.js": "/static/js/main.af75e24c.js",
+    "main.css": "/static/css/main.26cd5336.css",
+    "main.js": "/static/js/main.457ff2fc.js",
     "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
-    "static/media/resume_buya_batu_de.pdf": "/static/media/resume_buya_batu_de.1d376b58c7589a19e42f.pdf",
     "static/media/HobbyQuest.png": "/static/media/HobbyQuest.ad74a0e59adc73f6efd4.png",
-    "static/media/home-main.svg": "/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Buyandelger_Batsuren_Resume.pdf": "/static/media/Buyandelger_Batsuren_Resume.2c857cbb85684b84f3a2.pdf",
+    "static/media/Building_AWS_Lakehouse.png": "/static/media/Building_AWS_Lakehouse.9f41cf1ba54f2c1262b7.png",
     "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/mindcapsule.jpg": "/static/media/mindcapsule.e7c750db09546b305d23.jpg",
-    "static/media/avatar.svg": "/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
-    "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
+    "static/media/avatar.svg": "/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
-    "main.29bc8131.css.map": "/static/css/main.29bc8131.css.map",
-    "main.af75e24c.js.map": "/static/js/main.af75e24c.js.map",
+    "main.26cd5336.css.map": "/static/css/main.26cd5336.css.map",
+    "main.457ff2fc.js.map": "/static/js/main.457ff2fc.js.map",
     "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.29bc8131.css",
-    "static/js/main.af75e24c.js"
+    "static/css/main.26cd5336.css",
+    "static/js/main.457ff2fc.js"
   ]
 }

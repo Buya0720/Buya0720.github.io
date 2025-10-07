@@ -13,7 +13,6 @@ import {
   SiSnowflake, 
   SiDbt,
   SiTerraform,
-  SiDocker,
   SiMongodb,
   SiOracle
 } from "react-icons/si";

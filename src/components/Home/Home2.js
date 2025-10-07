@@ -21,29 +21,24 @@ function Home2() {
             </h1>
             <p className="home-about-body">
               I am a 
-              <b className="purple"> Data Engineer </b> with over <b className="purple"> 3 years </b> of experience in industries such as telecommunication and sports.              <br />
-              <br />I have expertise in languages such as 
-                <b className="purple"> SQL, Python, JavaScript, Shell/Bash </b> and <b className="purple"> C++ </b>, and I have mainly worked
+              <b className="purple"> Data Engineer </b> with over <b className="purple"> 3 years </b> of experience in telecommunication and sports data.              <br />
+              <br />I have expertise in languages  
+                <b className="purple"> SQL</b>,<b className="purple"> Python</b>,<b className="purple"> Shell</b> and <b className="purple"> C++ </b>.
+              <br />
+                 I have mainly worked
                  on 
                 <b className="purple"> building pipeline </b> on 
                 <b className="purple"> modelling OLAP warehouses </b> 
                 <b className="purple"> orchestrating ETL/ELT workflows </b> and
                 <b className="purple"> building interactive BI dashboards </b>.
               <br />
-              <br />
                 I have experience with big data tools, and distributed and real-time systems such as
                   <b className="purple"> Spark </b>, 
                   <b className="purple"> Trino </b>, and
                   <b className="purple"> Kafka </b>.
               <br />
-              <br />
-              Additionally I have worked with cloud platforms such as
+                Through my previous jobs and personal projects, I have worked on cloud platforms such as
                 <b className="purple"> AWS, Azure, Databricks </b> and <b className="purple"> Snowflake. </b>
-              <br />
-              <br />
-              Besides my main pursuit in Data Engineering, I'm also honing my skills in 
-              <b className="purple"> Machine Learning, AI</b> and 
-              <b className="purple"> Web development</b>  
             </p>
           </Col>
           <Col md={4} className="myAvtar">

@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.26cd5336.css",
-    "main.js": "/static/js/main.457ff2fc.js",
+    "main.js": "/static/js/main.443f3ba4.js",
     "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/HobbyQuest.png": "/static/media/HobbyQuest.ad74a0e59adc73f6efd4.png",
@@ -15,12 +15,12 @@
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
     "main.26cd5336.css.map": "/static/css/main.26cd5336.css.map",
-    "main.457ff2fc.js.map": "/static/js/main.457ff2fc.js.map",
+    "main.443f3ba4.js.map": "/static/js/main.443f3ba4.js.map",
     "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.26cd5336.css",
-    "static/js/main.457ff2fc.js"
+    "static/js/main.443f3ba4.js"
   ]
 }

@@ -4,7 +4,7 @@ import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import HobbyQuest from "../../Assets/Projects/HobbyQuest.png";
 import mindcapsule from "../../Assets/Projects/mindcapsule.jpg";
-import AWSlakehouse from "../../Assets/Projects/Building_AWS_Lakehouse.jpg";
+import AWSlakehouse from "../../Assets/Projects/Building_AWS_Lakehouse.png";
 
 function Projects() {
   return (
